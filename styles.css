@@ -1,0 +1,33 @@
+h1{
+  font-size:30px;
+  text-align:center;
+  font-weight:bold;
+  }
+
+.device1{
+        background-color:#7a7a7a;
+        width:400px;height:450px;
+        font-size:40px;text-align:center;
+        font-weight:bold;border-radius:20px
+        }
+
+.device2{
+        margin:auto;
+        max-width:20vm;
+        padding:20px 0;
+        }
+
+.getinput{
+          width:300px;
+          height:60px;
+          margin:10px;
+          boader:5px solid white;
+          box-shadow: 0 0 10px 0 #7a7a7a;
+          border-radius:8px;
+          font-size:30px;
+          margin-left:5px;
+          text-align:right;
+        }
+
+
+
